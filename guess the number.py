@@ -1,0 +1,8 @@
+lol = input("Pick a number beweeen 20 to 100, Press yes if you have made your mind: ")
+print ("Add your digits together...")
+input ("cick enter if you are done...")
+print ("substract the total frm the orginal number")
+input ("i'm waiting make it quick")
+print ("Add your digits together again")
+input ("let me guess it now")
+print ("9")
